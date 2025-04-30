@@ -10,9 +10,19 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      https://public.tableau.com/app/profile/prithak.k.b/viz/WorldsBestCitiesforPeopleandthePlanet_TableauBuddy/WorldsBestCitiesforPeopleandthePlanet
 
+      This for me would be an example of a bad data visualization: 
+      - There are two much empty space
+      - It's not immediate clear how we can figure out which city is ranked highest just by analyzing the the locations of the bubbles
+      - Not sure what the lines outside of the triangle are for
 
+      https://public.tableau.com/app/profile/asha4359/viz/LiteracyRates_17243394670400/WorldLiteracyRatesOverview
+    
+        This is an example of a good data visualization:
+        - The message is clearly conveyed in the front page
+        - The colour scheme is simple but very aesthetically pleasing
+        - The data are orgranzied into tables, which makes it very easy for readers to analyze and interpret 
 
 
 
@@ -21,7 +31,7 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      I think to improve the 1st graph mentioned above we could use a different font and font size for the legend to decrease the white space. The graph should also provide more context for how the ranking is done (for example, instead of having a separate tab for "how to read", this information can be overlayed on the actual data graph)
 
 
 
