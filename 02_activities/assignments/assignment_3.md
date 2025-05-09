@@ -6,24 +6,28 @@
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
+
+NOTES: The python code and the Excel visualization files are uploaded in along with the assignment_3.md file. For Excel, I only included example plots from 1996-2001, since the rest of the plots would look the same just different years.
+
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+    - I used Python and excel.
     > Who is your intended audience? 
-    
+    - The intended audience would be academic researchers studying agriculture economics.
     > What information or message are you trying to convey with your visualization? 
-    
+    - I'm trying to show the changes in the investment in each sector over time. 
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    - With python, I wanted to show the trends over the year, so I plot the data for Ontario and Canada separately using line graph. With Excel, I wanted to try plotting how the changes in Ontario compare to the changes in Canada, so I used a stacked histogram.
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    - Since the visualization was based on raw data, there is no concern for reproducibility (other than the colours of each item)
     > How did you ensure that your data visualization is accessible?  
-    
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    - I chose colour-blind friendly scheme to help make the visualization more accessible.
+    > Who are the individuals and communities who might be impacted by your visualization?
+    - I think policy makers would be most impacted, because it's showing how effective or ineffective the current resources are being used. 
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    - I did not exclude any data.
     > What ‘underwater labour’ contributed to your final data visualization product?
+    - People who collected these data and performed the data cleaning/curation/analysis on the dataset contributed to the final data visualization product.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
